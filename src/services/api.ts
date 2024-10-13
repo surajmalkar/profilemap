@@ -20,7 +20,7 @@ const mockProfiles: Profile[] = [
     name: 'John Dep',
     photo: 'https://images.pexels.com/photos/3760376/pexels-photo-3760376.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1',
     description: 'HR',
-    location: { lat: 56.1304, lng: 106.3467 }
+    location: { lat: 34.045945631485566,  lng: -118.23300157861935 }
   },
   // Add more mock profiles as needed
 ]
