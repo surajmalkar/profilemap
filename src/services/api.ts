@@ -22,7 +22,7 @@ const mockProfiles: Profile[] = [
     description: 'HR',
     location: { lat: 34.045945631485566,  lng: -118.23300157861935 }
   },
-  // Add more mock profiles as needed
+ 
 ]
 
 export const fetchProfiles = async (): Promise<Profile[]> => {
